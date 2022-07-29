@@ -1,0 +1,2 @@
+# MinCont
+A minimalistic container
